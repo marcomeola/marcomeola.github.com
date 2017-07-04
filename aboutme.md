@@ -4,7 +4,7 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-Hi, my name is Marco Meola. s
+Hi, my name is Marco Meola.
 
 - I rock a great mustache
 - I'm extremely loyal to my family
