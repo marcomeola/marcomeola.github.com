@@ -10,8 +10,8 @@ baseurl: ""
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
-#url: "http://meolam.github.io/DAIRYdb"
-#baseurl: "/DAIRYdb"
+url: "http://meolam.github.io/DAIRYdb"
+baseurl: "/DAIRYdb"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
