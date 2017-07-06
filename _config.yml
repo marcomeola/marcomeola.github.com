@@ -10,6 +10,8 @@ baseurl: ""
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
+url: "http://meolam.github.io/DAIRYdb"
+baseurl: "/DAIRYdb"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
@@ -44,10 +46,10 @@ avatar: "/img/avatar-icon.png"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Some Person
-  email: "youremail@domain.com"
+  email: "meolam2@gamil.com"
   facebook: yourname  # eg. daattali
-  github: yourname    # eg. daattali
-  twitter: yourname   # eg. daattali
+  github: meolam    # eg. daattali
+  twitter: coprolith   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
   linkedin: yourname  # eg. daattali
@@ -68,8 +70,8 @@ footer-links-active:
   google-plus: false
   github: true
   reddit: false
-  linkedin: false
-  xing: false
+  linkedin: true
+  xing: true
   stackoverflow: false
   snapchat: false
   instagram: false
